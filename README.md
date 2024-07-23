@@ -72,4 +72,4 @@ Please feel free to open issues or submit pull requests if you have any suggesti
 
 ## Contact
 
-If you have any questions, please contact [your-email@example.com](mailto:hdpatil492@gmail.com).
+If you have any questions, please contact [hdpatil492@gmail.com](mailto:hdpatil492@gmail.com).
