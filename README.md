@@ -70,10 +70,6 @@ For deployment instructions, please take a look at [GitHub Pages Deployment](htt
 
 Please feel free to open issues or submit pull requests if you have any suggestions.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-If you have any questions, please contact [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, please contact [your-email@example.com](mailto:hdpatil492@gmail.com).
